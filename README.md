@@ -1,0 +1,6 @@
+# Vehicle-Collision-Analysis
+Vehicle collision analysis is significant because it helps increase road safety, assist emergency services, determine insurance premiums, improve infrastructure planning, aid in legal proceedings, and raise public awareness of the dangers of the road. The analysis process consists of:
+1. The first analysis is based on Borough/area: Analyzing the accidents occurring in each borough of New York to ascertain whether they pose a risk of injury, fatality, or both. As a sub analysis we also identified if Staten Island accidents were affected by the time of the day.
+2. The second analysis is whether the type of vehicle involved in the accident has any correlation with the injury rate. Also, Brooklyn has highest rate of accidents so, we also analyzed the no of accidents, injury rate and fatality rate being affected by the size of the vehicle in Brooklyn area.
+3. Driver distraction is the most common factor contributing to accidents and whether there is any relationship between the reason for the accident and the damage caused, such as major or minor injuries. As a sub analysis, we analyzed the kind of road users getting affected by driver inattention. 
+4. Analyzed whether the date and time of the accident, as well as weather conditions, play a role in accident rates.
